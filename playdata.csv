@@ -1,0 +1,159 @@
+seq,drive_num,drive_result,drive_yds,quarter,time,team,position,play_desc,note,playid
+1,1,Punt,17,1,15:00,SEA,-15,S.Hauschka kicks 70 yards from SEA 35 to NE -5. D.Amendola to NE 18 for 23 yards (D.Shead).,KICKOFF,37
+2,1,Punt,17,1,14:57,NE,-32,(14:57) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 20 for 2 yards (B.Irvin).,,59
+3,1,Punt,17,1,14:15,NE,-30,(14:15) T.Brady pass short left to D.Amendola pushed ob at NE 26 for 6 yards (B.Maxwell).,,83
+4,1,Punt,17,1,13:47,NE,-24,(13:47) (Shotgun) T.Brady pass short left to S.Vereen to NE 31 for 5 yards (K.Wright) [M.Bennett].,,122
+5,1,Punt,17,1,13:15,NE,-19,(13:15) L.Blount up the middle to NE 33 for 2 yards (B.Wagner).,,146
+6,1,Punt,17,1,12:34,NE,-17,"(12:34) L.Blount right tackle to NE 35 for 2 yards (K.Wright, C.Avril).",,167
+7,1,Punt,17,1,11:49,NE,-15,(11:49) (Shotgun) T.Brady pass incomplete short left to S.Vereen.,,188
+8,1,Punt,17,1,11:44,NE,-15,"(11:44) R.Allen punts 49 yards to SEA 16, Center-D.Aiken. B.Walters to SEA 16 for no gain (K.Arrington). Penalty on SEA-J.Johnson, Running Into the Kicker, declined.",PUNT,210
+9,2,Punt,8,1,11:34,SEA,-34,(11:34) M.Lynch right end to SEA 19 for 3 yards (S.Siliga; D.Hightower).,,269
+10,2,Punt,8,1,10:52,SEA,-31,(10:52) (Shotgun) M.Lynch up the middle to SEA 24 for 5 yards (D.Hightower; R.Ninkovich).,,290
+11,2,Punt,8,1,10:14,SEA,-26,(10:14) (Shotgun) M.Lynch up the middle to SEA 24 for no gain (J.Collins).,,311
+12,2,Punt,8,1,09:30,SEA,-26,"(9:30) J.Ryan punts 44 yards to NE 32, Center-C.Gresham, fair catch by J.Edelman.",PUNT,332
+13,3,Interception,58,1,09:20,NE,-18,(9:20) (Shotgun) T.Brady pass short left to S.Vereen to NE 35 for 3 yards (K.Williams).,,369
+14,3,Interception,58,1,08:41,NE,-15,(8:41) T.Brady pass short left to J.Edelman pushed ob at NE 46 for 11 yards (B.Maxwell).,,393
+15,3,Interception,58,1,08:04,NE,-4,"(8:04) 71-C.Fleming has reported as eligible. L.Blount up the middle to SEA 48 for 6 yards (B.Wagner, R.Sherman).",,417
+16,3,Interception,58,1,07:23,NE,2,"(7:23) L.Blount right tackle to SEA 47 for 1 yard (T.McDaniel, B.Wagner).",,442
+17,3,Interception,58,1,06:44,NE,3,(6:44) (Shotgun) T.Brady pass short right to R.Gronkowski to SEA 43 for 4 yards (K.Chancellor). SEA-D.Dobbs was injured during the play.,,463
+18,3,Interception,58,1,06:07,NE,7,(6:07) (Shotgun) T.Brady pass short left to S.Vereen to SEA 40 for 3 yards (K.Wright).,,487
+19,3,Interception,58,1,05:31,NE,10,(5:31) 71-C.Fleming has reported as eligible. L.Blount up the middle to SEA 34 for 6 yards (K.Wright).,,515
+20,3,Interception,58,1,04:52,NE,16,(4:52) L.Blount right end to SEA 26 for 8 yards (E.Thomas).,,540
+21,3,Interception,58,1,04:15,NE,24,(4:15) L.Blount up the middle to SEA 24 for 2 yards (K.Wright).,,561
+22,3,Interception,58,1,03:38,NE,26,(3:38) (Shotgun) T.Brady pass short left to D.Amendola pushed ob at SEA 14 for 10 yards (B.Maxwell).,,582
+23,3,Interception,58,1,03:07,NE,36,(3:07) (Shotgun) T.Brady pass short right to M.Hoomanawanui to SEA 10 for 4 yards (K.Chancellor).,,606
+24,3,Interception,58,1,02:29,NE,40,"(2:29) (Shotgun) L.Blount up the middle to SEA 10 for no gain (M.Bennett, C.Avril).",,630
+25,3,Interception,58,1,01:50,NE,40,(1:50) (Shotgun) T.Brady pass short left intended for J.Edelman INTERCEPTED by J.Lane [M.Bennett] at SEA 0. J.Lane pushed ob at SEA 14 for 14 yards (J.Edelman). SEA-J.Lane was injured during the play. His return is Doubtful.,INT,651
+26,4,Punt,12,1,01:39,SEA,-36,(1:39) R.Wilson scrambles right end to SEA 21 for 7 yards (J.Collins).,,700
+27,4,Punt,12,1,00:59,SEA,-29,(:59) M.Lynch left end to SEA 25 for 4 yards (J.Collins).,,725
+28,4,Punt,12,1,00:16,SEA,-25,(:16) (Shotgun) R.Wilson sacked at SEA 23 for -2 yards (D.Revis).,,746
+29,4,Punt,12,2,15:00,SEA,-27,(15:00) M.Lynch right end to SEA 26 for 3 yards (V.Wilfork).,,785
+30,4,Punt,12,2,14:21,SEA,-24,(14:21) (Shotgun) R.Wilson pass incomplete deep middle to B.Walters.,,806
+31,4,Punt,12,2,14:08,SEA,-24,"(14:08) J.Ryan punts 40 yards to NE 34, Center-C.Gresham. J.Edelman to NE 35 for 1 yard (B.Coyle).",PUNT,828
+32,5,Touchdown,65,2,13:57,NE,-15,(13:57) (Shotgun) T.Brady pass short left to D.Amendola ran ob at SEA 48 for 17 yards (E.Thomas).,,871
+33,5,Touchdown,65,2,13:30,NE,2,(13:30) T.Brady pass incomplete short left to B.LaFell.,,902
+34,5,Touchdown,65,2,13:25,NE,2,(13:25) (Shotgun) T.Brady pass short left to B.LaFell to SEA 41 for 7 yards (B.Wagner).,,924
+35,5,Touchdown,65,2,12:45,NE,9,(12:45) (Shotgun) T.Brady pass short right to S.Vereen to SEA 36 for 5 yards (B.Wagner).,,948
+36,5,Touchdown,65,2,12:06,NE,14,(12:06) T.Brady pass incomplete deep right to R.Gronkowski.,,972
+37,5,Touchdown,65,2,11:59,NE,14,(11:59) S.Vereen up the middle to SEA 35 for 1 yard (K.Wright).,,994
+38,5,Touchdown,65,2,11:17,NE,15,(11:17) (Shotgun) T.Brady pass short middle to J.Edelman to SEA 12 for 23 yards (E.Thomas).,,1015
+39,5,Touchdown,65,2,10:34,NE,38,(10:34) 71-C.Fleming has reported as eligible. L.Blount up the middle to SEA 11 for 1 yard (B.Wagner).,,1039
+40,5,Touchdown,65,2,09:51,NE,39,"(9:51) (Shotgun) T.Brady pass short left to B.LaFell for 11 yards, TOUCHDOWN.",TD,1064
+41,5,Touchdown,65,2,09:47,NE,48,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",XP,1085
+42,6,Punt,2,2,09:47,NE,-15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",KICKOFF,1116
+43,6,Punt,2,2,09:47,SEA,-30,(9:47) R.Wilson sacked at SEA 17 for -3 yards (Cha.Jones).,,1148
+44,6,Punt,2,2,09:06,SEA,-33,"(9:06) (Shotgun) M.Lynch up the middle to SEA 22 for 5 yards (J.Collins, R.Ninkovich).",,1167
+45,6,Punt,2,2,08:24,SEA,-28,(8:24) (Shotgun) R.Wilson pass incomplete deep right to J.Kearse (L.Ryan).,,1188
+46,6,Punt,2,2,08:17,SEA,-28,"(8:17) J.Ryan punts 61 yards to NE 17, Center-C.Gresham. J.Edelman pushed ob at NE 28 for 11 yards (D.Shead).",PUNT,1210
+47,7,Punt,7,2,08:05,NE,-22,(8:05) (Shotgun) T.Brady pass incomplete short left to R.Gronkowski (T.McDaniel).,,1259
+48,7,Punt,7,2,08:01,NE,-22,(8:01) (Shotgun) T.Brady pass short right to J.Edelman to NE 35 for 7 yards (B.Wagner).,,1281
+49,7,Punt,7,2,07:22,NE,-15,(7:22) (Shotgun) T.Brady pass incomplete short middle to J.Edelman.,,1305
+50,7,Punt,7,2,07:17,NE,-15,"(7:17) R.Allen punts 35 yards to SEA 30, Center-D.Aiken, downed by NE-K.Arrington.",PUNT,1327
+51,8,Touchdown,75,2,07:07,SEA,-20,(7:07) M.Lynch up the middle to SEA 35 for 5 yards (A.Branch).,,1371
+52,8,Touchdown,75,2,06:31,SEA,-15,(6:31) (Shotgun) M.Lynch up the middle to SEA 39 for 4 yards (A.Branch).,,1406
+53,8,Touchdown,75,2,05:51,SEA,-11,"(5:51) PENALTY on SEA-L.Willson, False Start, 5 yards, enforced at SEA 39 - No Play.",PENALTY,1427
+54,8,Touchdown,75,2,05:36,SEA,-16,(5:36) (Shotgun) R.Wilson pass short right to J.Kearse to SEA 40 for 6 yards (B.Browner) [A.Ayers].,,1450
+55,8,Touchdown,75,2,04:57,SEA,-10,(4:57) (Shotgun) M.Lynch left tackle to SEA 45 for 5 yards (D.Hightower).,,1474
+56,8,Touchdown,75,2,04:19,SEA,-5,(4:19) (Shotgun) R.Wilson pass deep right to C.Matthews to NE 11 for 44 yards (K.Arrington).,,1495
+57,8,Touchdown,75,2,03:39,SEA,39,"(3:39) (No Huddle, Shotgun) M.Lynch up the middle to NE 6 for 5 yards (J.Collins; R.Ninkovich).",,1519
+58,8,Touchdown,75,2,03:02,SEA,44,(3:02) M.Lynch left tackle to NE 3 for 3 yards (Cha.Jones).,,1540
+59,8,Touchdown,75,2,02:22,SEA,47,"(2:22) (Shotgun) M.Lynch right tackle for 3 yards, TOUCHDOWN.",TD,1561
+60,8,Touchdown,75,2,02:16,SEA,48,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",XP,1579
+61,9,Touchdown,75,2,02:16,SEA,-15,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",KICKOFF,1610
+62,9,Touchdown,75,2,02:16,NE,-30,(2:16) T.Brady pass short left to D.Amendola pushed ob at NE 31 for 11 yards (B.Maxwell).,,1625
+63,9,Touchdown,75,2,02:00,NE,-19,(2:00) 71-C.Fleming has reported as eligible. L.Blount right end to NE 40 for 9 yards (B.Wagner).,,1671
+64,9,Touchdown,75,2,01:33,NE,-10,"(1:33) (No Huddle, Shotgun) T.Brady pass short right to S.Vereen to NE 45 for 5 yards (B.Wagner).",,1696
+65,9,Touchdown,75,2,01:00,NE,-5,"(1:00) (No Huddle, Shotgun) T.Brady pass incomplete deep left to D.Amendola.",,1720
+66,9,Touchdown,75,2,00:54,NE,-5,(:54) J.Edelman left end ran ob at SEA 48 for 7 yards (E.Thomas).,,1742
+67,9,Touchdown,75,2,00:49,NE,2,"(:49) (Shotgun) PENALTY on SEA-C.Avril, Neutral Zone Infraction, 5 yards, enforced at SEA 48 - No Play.",PENALTY,1763
+68,9,Touchdown,75,2,00:49,NE,7,(:49) (Shotgun) T.Brady pass short middle to S.Vereen to SEA 27 for 16 yards (B.Wagner).,,1792
+69,9,Touchdown,75,2,00:40,NE,23,(:40) (Shotgun) T.Brady pass short right to S.Vereen pushed ob at SEA 22 for 5 yards (K.Wright) [O.Schofield].,,1833
+70,9,Touchdown,75,2,00:36,NE,28,"(:36) (Shotgun) T.Brady pass deep right to R.Gronkowski for 22 yards, TOUCHDOWN.",TD,1862
+71,9,Touchdown,75,2,00:31,NE,48,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",XP,1889
+72,10,Touchdown,70,2,00:31,NE,-15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",KICKOFF,1920
+73,10,Touchdown,70,2,00:31,SEA,-30,(:31) (Shotgun) R.Turbin up the middle to SEA 39 for 19 yards (D.McCourty).,,1935
+74,10,Touchdown,70,2,00:24,SEA,-11,(:24) (Shotgun) R.Wilson left end ran ob at NE 44 for 17 yards (D.McCourty).,,1973
+75,10,Touchdown,70,2,00:17,SEA,6,(:17) (Shotgun) R.Wilson pass incomplete deep right.,,2010
+76,10,Touchdown,70,2,00:11,SEA,6,"(:11) (Shotgun) R.Wilson pass deep left to R.Lockette ran ob at NE 21 for 23 yards (K.Arrington). PENALTY on NE-K.Arrington, Face Mask (15 Yards), 10 yards, enforced at NE 21.",PENALTY,2032
+77,10,Touchdown,70,2,00:06,SEA,39,"(:06) (Shotgun) R.Wilson pass short left to C.Matthews for 11 yards, TOUCHDOWN.",TD,2107
+78,10,Touchdown,70,2,00:02,SEA,48,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",XP,2128
+79,11,End of Half,0,2,00:02,SEA,-15,S.Hauschka kicks 33 yards from SEA 35 to NE 32. J.Develin to NE 37 for 5 yards.,KICKOFF,2159
+80,12,Field Goal,72,4,15:00,NE,-15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",KICKOFF,2197
+81,12,Field Goal,72,4,15:00,SEA,-30,(15:00) M.Lynch up the middle to SEA 23 for 3 yards (P.Chung).,,2212
+82,12,Field Goal,72,4,14:22,SEA,-27,"(14:22) (Shotgun) M.Lynch up the middle to SEA 38 for 15 yards (Cha.Jones, D.McCourty).",,2233
+83,12,Field Goal,72,4,13:48,SEA,-12,(13:48) R.Wilson pass deep left to C.Matthews pushed ob at NE 17 for 45 yards (D.McCourty).,,2254
+84,12,Field Goal,72,4,13:17,SEA,33,(13:17) M.Lynch left tackle to NE 10 for 7 yards (D.Hightower).,,2278
+85,12,Field Goal,72,4,12:34,SEA,40,(12:34) (Shotgun) R.Turbin up the middle to NE 8 for 2 yards (S.Siliga).,,2299
+86,12,Field Goal,72,4,11:51,SEA,42,(11:51) (Shotgun) M.Lynch left tackle to NE 8 for no gain (R.Ninkovich).,,2320
+87,12,Field Goal,72,4,11:13,SEA,42,"(11:13) S.Hauschka 27 yard field goal is GOOD, Center-C.Gresham, Holder-J.Ryan.",FG,2341
+88,13,Interception,12,4,11:09,SEA,-15,"S.Hauschka kicks 65 yards from SEA 35 to end zone, Touchback.",KICKOFF,2376
+89,13,Interception,12,4,11:09,NE,-30,(11:09) (Shotgun) T.Brady pass short left to J.Edelman to NE 23 for 3 yards (K.Chancellor).,,2408
+90,13,Interception,12,4,10:29,NE,-27,(10:29) L.Blount up the middle to NE 24 for 1 yard (K.Williams; T.McDaniel).,,2432
+91,13,Interception,12,4,09:45,NE,-26,(9:45) (Shotgun) T.Brady pass short right to R.Gronkowski to NE 31 for 7 yards (E.Thomas) [M.Bennett].,,2453
+92,13,Interception,12,4,09:03,NE,-19,(9:03) 71-C.Fleming has reported as eligible. L.Blount right end to NE 32 for 1 yard (B.Maxwell).,,2477
+93,13,Interception,12,4,08:20,NE,-18,(8:20) T.Brady pass incomplete short middle to R.Gronkowski [M.Bennett].,,2502
+94,13,Interception,12,4,08:15,NE,-18,"(8:15) (Shotgun) T.Brady pass short middle intended for R.Gronkowski INTERCEPTED by B.Wagner at NE 40. B.Wagner to NE 34 for 6 yards (B.Bolden). SEA-C.Avril was injured during the play.  PENALTY on SEA-R.Sherman, Illegal Block Above the Waist, 10 yards, enforced at NE 40.",INT,2524
+95,14,Touchdown,45,4,08:07,SEA,0,(8:07) (Shotgun) R.Wilson pass short left to C.Matthews to NE 41 for 9 yards (B.Browner).,,2565
+96,14,Touchdown,45,4,07:26,SEA,9,(7:26) M.Lynch right end to NE 38 for 3 yards (J.Collins).,,2589
+97,14,Touchdown,45,4,06:44,SEA,12,"(6:44) (Shotgun) R.Wilson scrambles left end to NE 23 for 15 yards (D.McCourty). PENALTY on NE-B.Browner, Defensive Holding, 5 yards, enforced at NE 23.",PENALTY,2610
+98,14,Touchdown,45,4,06:23,SEA,32,(6:23) M.Lynch up the middle to NE 4 for 14 yards (R.Ninkovich).,,2642
+99,14,Touchdown,45,4,05:39,SEA,46,(5:39) M.Lynch left tackle to NE 3 for 1 yard (J.Collins; S.Siliga).,,2663
+100,14,Touchdown,45,4,05:00,SEA,47,"(5:00) R.Wilson pass short right to D.Baldwin for 3 yards, TOUCHDOWN. PENALTY on SEA-D.Baldwin, Unsportsmanlike Conduct, 15 yards, enforced between downs.",TD,2684
+101,14,Touchdown,45,4,04:54,SEA,48,"S.Hauschka extra point is GOOD, Center-C.Gresham, Holder-J.Ryan.",XP,2705
+102,15,Punt,11,4,04:54,SEA,-30,S.Hauschka kicks 66 yards from SEA 20 to NE 14. D.Amendola pushed ob at NE 35 for 21 yards (S.Terrell).,KICKOFF,2748
+103,15,Punt,11,4,04:48,NE,-15,"(4:48) T.Brady pass short left to J.Edelman to SEA 48 for 17 yards (T.Simon). PENALTY on NE-B.Stork, Offensive Holding, 10 yards, enforced at NE 35 - No Play.",PENALTY,2792
+104,15,Punt,11,4,04:19,NE,-25,(4:19) (Shotgun) T.Brady pass incomplete deep left to B.LaFell.,,2827
+105,15,Punt,11,4,04:13,NE,-25,"(4:13) (Shotgun) T.Brady pass short middle to J.Edelman to NE 36 for 11 yards (E.Thomas, B.Wagner).",,2849
+106,15,Punt,11,4,03:28,NE,-14,(3:28) (Shotgun) T.Brady pass incomplete short middle to D.Amendola.,,2873
+107,15,Punt,11,4,03:24,NE,-14,"(3:24) R.Allen punts 64 yards to end zone, Center-D.Aiken, Touchback.",PUNT,2895
+108,16,Punt,33,4,03:15,SEA,-30,(3:15) R.Wilson pass deep middle to R.Lockette to SEA 45 for 25 yards (B.Browner).,,2930
+109,16,Punt,33,4,02:37,SEA,-5,(2:37) M.Lynch up the middle to SEA 47 for 2 yards (M.Butler).,,2954
+110,16,Punt,33,4,01:54,SEA,-3,(1:54) (Shotgun) R.Wilson pass short right to J.Kearse to NE 47 for 6 yards (M.Butler).,,2975
+111,16,Punt,33,4,01:12,SEA,3,(1:12) (Shotgun) R.Wilson pass incomplete deep left to J.Kearse (M.Butler).,,2999
+112,16,Punt,33,4,01:05,SEA,3,"(1:05) J.Ryan punts 33 yards to NE 14, Center-C.Gresham, out of bounds.",PUNT,3021
+113,17,Punt,8,4,00:55,NE,-36,(:55) (Shotgun) S.Vereen up the middle to NE 17 for 3 yards (K.Chancellor).,,3040
+114,17,Punt,8,4,00:17,NE,-33,(:17) T.Brady pass short left to J.Develin to NE 23 for 6 yards (K.Wright).,,3061
+115,17,Punt,8,5,15:00,NE,-27,(15:00) 71-C.Fleming has reported as eligible. L.Blount right tackle to NE 22 for -1 yards (K.Chancellor).,,3101
+116,17,Punt,8,5,14:28,NE,-28,"(14:28) R.Allen punts 48 yards to SEA 30, Center-D.Aiken. B.Walters to SEA 36 for 6 yards (M.Slater).",PUNT,3126
+117,18,Punt,-5,5,14:17,SEA,-14,(14:17) (Shotgun) M.Lynch left end to SEA 38 for 2 yards (A.Branch).,,3152
+118,18,Punt,-5,5,13:42,SEA,-12,(13:42) (Shotgun) M.Lynch up the middle to SEA 39 for 1 yard (V.Wilfork).,,3173
+119,18,Punt,-5,5,13:01,SEA,-11,(13:01) (Shotgun) R.Wilson sacked at SEA 31 for -8 yards (R.Ninkovich).,,3194
+120,18,Punt,-5,5,12:22,SEA,-19,"(12:22) J.Ryan punts 52 yards to NE 17, Center-C.Gresham. J.Edelman to NE 32 for 15 yards (J.Johnson).",PUNT,3213
+121,19,Touchdown,53,5,12:10,NE,-18,(12:10) (Shotgun) T.Brady sacked at NE 24 for -8 yards (B.Irvin).,,3256
+122,19,Touchdown,53,5,11:30,NE,-26,(11:30) (Shotgun) T.Brady pass short right to B.LaFell pushed ob at NE 28 for 4 yards (R.Sherman).,,3275
+123,19,Touchdown,53,5,10:58,NE,-22,(10:58) (Shotgun) T.Brady pass deep middle to J.Edelman to NE 49 for 21 yards (K.Chancellor).,,3304
+124,19,Touchdown,53,5,09:52,NE,-1,"(9:52) (Shotgun) T.Brady pass short left to S.Vereen to SEA 42 for 9 yards (E.Thomas). PENALTY on SEA-E.Thomas, Unnecessary Roughness, 15 yards, enforced at SEA 42.",PENALTY,3328
+125,19,Touchdown,53,5,09:36,NE,23,(9:36) (Shotgun) T.Brady pass incomplete deep left to B.LaFell (T.Simon).,,3363
+126,19,Touchdown,53,5,09:28,NE,23,(9:28) (Shotgun) S.Vereen right tackle to SEA 25 for 2 yards (K.Wright).,,3385
+127,19,Touchdown,53,5,08:46,NE,25,(8:46) (Shotgun) T.Brady pass short middle to J.Edelman to SEA 4 for 21 yards (E.Thomas).,,3406
+128,19,Touchdown,53,5,08:04,NE,46,(8:04) T.Brady pass incomplete short left to J.Edelman.,,3430
+129,19,Touchdown,53,5,08:00,NE,46,"(8:00) (Shotgun) T.Brady pass short middle to D.Amendola for 4 yards, TOUCHDOWN.",TD,3452
+130,19,Touchdown,53,5,07:55,NE,48,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",XP,3473
+131,20,Punt,5,5,07:55,NE,-15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",KICKOFF,3504
+132,20,Punt,5,5,07:55,SEA,-30,(7:55) R.Wilson pass incomplete deep middle to R.Lockette.,,3536
+133,20,Punt,5,5,07:48,SEA,-30,(7:48) (Shotgun) M.Lynch up the middle to SEA 25 for 5 yards (S.Siliga).,,3558
+134,20,Punt,5,5,07:06,SEA,-25,(7:06) (Shotgun) R.Wilson pass incomplete short right to M.Lynch.,,3579
+135,20,Punt,5,5,07:00,SEA,-25,"(7:00) J.Ryan punts 39 yards to NE 36, Center-C.Gresham, fair catch by J.Edelman.",PUNT,3601
+136,21,Touchdown,74,5,06:52,NE,-14,(6:52) (Shotgun) T.Brady pass short middle to S.Vereen to NE 44 for 8 yards (K.Chancellor; K.Wright).,,3638
+137,21,Touchdown,74,5,06:13,NE,-6,(6:13) (Shotgun) T.Brady pass short left to S.Vereen to NE 49 for 5 yards (K.Chancellor).,,3662
+138,21,Touchdown,74,5,05:32,NE,-1,(5:32) (Shotgun) T.Brady pass short left to J.Edelman to SEA 42 for 9 yards (K.Williams).,,3686
+139,21,Touchdown,74,5,04:55,NE,8,"(4:55) (Shotgun) T.Brady pass short right to S.Vereen to SEA 36 for 6 yards (B.Maxwell). PENALTY on NE-D.Amendola, Offensive Pass Interference, 10 yards, enforced at SEA 42 - No Play.",PENALTY,3710
+140,21,Touchdown,74,5,04:47,NE,-2,(4:47) (Shotgun) T.Brady pass short right to R.Gronkowski to SEA 32 for 20 yards (K.Chancellor; E.Thomas) [B.Irvin].,,3745
+141,21,Touchdown,74,5,04:12,NE,18,(4:12) (Shotgun) T.Brady pass short right to S.Vereen pushed ob at SEA 32 for no gain (R.Sherman).,,3769
+142,21,Touchdown,74,5,04:05,NE,18,"(4:05) (Shotgun) T.Brady pass short right to R.Gronkowski to SEA 19 for 13 yards (K.Wright, K.Chancellor).",,3798
+143,21,Touchdown,74,5,03:34,NE,31,(3:34) (Shotgun) S.Vereen up the middle to SEA 12 for 7 yards (B.Wagner).,,3822
+144,21,Touchdown,74,5,02:57,NE,38,(2:57) (Shotgun) T.Brady pass short left to B.LaFell ran ob at SEA 5 for 7 yards.,,3843
+145,21,Touchdown,74,5,02:52,NE,45,(2:52) 71-C.Fleming has reported as eligible. L.Blount up the middle to SEA 3 for 2 yards (M.Bennett).,,3888
+146,21,Touchdown,74,5,02:06,NE,47,"(2:06) T.Brady pass short left to J.Edelman for 3 yards, TOUCHDOWN.",TD,3913
+147,21,Touchdown,74,5,02:02,NE,48,"S.Gostkowski extra point is GOOD, Center-D.Aiken, Holder-R.Allen.",XP,3939
+148,22,Interception,79,5,02:02,NE,-15,"S.Gostkowski kicks 65 yards from NE 35 to end zone, Touchback.",KICKOFF,3970
+149,22,Interception,79,5,02:02,SEA,-30,(2:02) (Shotgun) R.Wilson pass deep left to M.Lynch to NE 49 for 31 yards (J.Collins).,,3985
+150,22,Interception,79,5,01:55,SEA,1,(1:55) (Shotgun) R.Wilson pass incomplete deep right to J.Kearse (M.Butler).,,4053
+151,22,Interception,79,5,01:50,SEA,1,(1:50) (Shotgun) R.Wilson pass incomplete deep right to C.Matthews (B.Browner).,,4092
+152,22,Interception,79,5,01:41,SEA,1,(1:41) (Shotgun) R.Wilson pass short right to R.Lockette to NE 38 for 11 yards (L.Ryan).,,4114
+153,22,Interception,79,5,01:14,SEA,12,"(1:14) (No Huddle, Shotgun) R.Wilson pass deep right to J.Kearse pushed ob at NE 5 for 33 yards (M.Butler).",,4138
+154,22,Interception,79,5,01:06,SEA,45,(1:06) M.Lynch left tackle to NE 1 for 4 yards (D.Hightower).,,4184
+155,22,Interception,79,5,00:26,SEA,49,"(:26) (Shotgun) R.Wilson pass short right intended for R.Lockette INTERCEPTED by M.Butler at NE -1. M.Butler to NE 2 for 3 yards (R.Lockette). PENALTY on NE, Unsportsmanlike Conduct, 1 yard, enforced at NE 2.",INT,4205
+156,23,End of Game,-3,5,00:20,NE,-49,"(:20) PENALTY on SEA-M.Bennett, Encroachment, 5 yards, enforced at NE 1 - No Play.",PENALTY,4259
+157,23,End of Game,-3,5,00:20,NE,-44,"(:20) T.Brady kneels to NE 5 for -1 yards. PENALTY on SEA-B.Irvin, Disqualification, 15 yards, enforced at NE 5.",PENALTY,4282
+158,23,End of Game,-3,5,00:18,NE,-30,(:18) T.Brady kneels to NE 18 for -2 yards.,,4332
